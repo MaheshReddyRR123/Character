@@ -27,6 +27,7 @@ public class CountCharcaters {
 	
 	public static void hi() {
 		System.out.println("Hii");
+		System.out.println("New line added by Fiyaz");
 	}
 	
 	public static void bye() {
